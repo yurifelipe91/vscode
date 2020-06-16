@@ -24,7 +24,7 @@ Minhas configurações e extensões do vscode
 		{
 			"format": "compressed",
 			"extensionName": ".min.css",
-			"savePath": "./../rocketseat/LaunchBase/gym/public/css/"
+			"savePath": "./css/"
 		}
 	],
 	"liveServer.settings.CustomBrowser": "chrome",
