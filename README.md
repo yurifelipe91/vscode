@@ -10,6 +10,7 @@ Minhas configurações e extensões do vscode
 	"editor.tabSize": 2,
 	"editor.wordWrap": "on",
 	"window.zoomLevel": -1,
+	"explorer.compactFolders": false,
 	//terminal gitbash
 	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
 	"editor.fontFamily": "Fira Code",
