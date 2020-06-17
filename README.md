@@ -3,7 +3,9 @@ Minhas configurações e extensões do vscode
 
 ```
 {
-	// "workbench.startupEditor": "newUntitledFile",
+    	"workbench.startupEditor": "newUntitledFile",
+    	"workbench.tree.renderIndentGuides": "always",
+	"workbench.tree.indent": 15,	
 	"editor.formatOnPaste": true,
 	"editor.multiCursorModifier": "ctrlCmd",
 	"editor.snippetSuggestions": "top",
@@ -33,15 +35,8 @@ Minhas configurações e extensões do vscode
 	"[scss]": {
 		"editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
 	},
-	/* config do nunjucks*/
-	// "html.suggest.html5": true,
-	"emmet.includeLanguages": {
-		"njk": "html",
-	},
-	"files.associations": {
-		"*.njk": "nunjucks",
-		"*.html": "html"
-	},
+	"html.suggest.html5": true,
+
 	"emment.syntaxProfiles": {
 		"javascript": "jsx"
 	},
