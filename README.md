@@ -55,6 +55,14 @@ Minhas configurações e extensões do vscode
 		"list.hoverBackground": "#21534d",
 		"list.activeSelectionBackground": "#1C3735",
 	},
+	"workbench.colorCustomizations": {
+        "activityBar.activeBorder": "#ff79c6",
+        "activityBar.activeBackground": "#21222c",
+        "tab.activeBackground": "#282a36",
+        "tab.hoverBackground": "#353849",
+        "list.hoverBackground": "#525c8c",
+        "list.activeSelectionBackground": "#525c8c",
+    },
 	"[javascript]": {
 		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
